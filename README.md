@@ -1,4 +1,4 @@
-# SQL-Business-CaseStudy---Atliq-Hardwares
+# SQl Business CaseStudy Portfolio Project
 
 Atliq Hardwares, a leading computer hardware manufacturer, faces a perplexing challenge in their APAC market segment. 
 Despite robust expansion efforts, they're witnessing an unexpected decline in sales growth in the APAC market.
