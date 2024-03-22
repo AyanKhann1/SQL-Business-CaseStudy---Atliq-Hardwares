@@ -11,6 +11,9 @@ Using historical sales data and customer insights, the team must identify key ma
 ## Goal
 The ultimate goal is to revitalize sales growth, enhance market competitiveness, and position Atliq Hardwares for sustainable success in the dynamic hardware landscape.
 
+## Stakeholder(s)
+Data Analytics director and Management team
+
 ## Dataset
 -- 1. dim_customer: contains customer-related data
 -- 2. dim_product: contains product-related data
