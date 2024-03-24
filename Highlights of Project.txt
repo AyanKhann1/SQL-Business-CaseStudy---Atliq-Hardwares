@@ -1,7 +1,7 @@
 Insights and Recommendations:
 
 ** For this project, I am only considering the 5 questions to answer to keep it easier for viewers to read everything and get the overall idea. **
-** For detailed output, click the link given at the bottom**
+** For detailed output, click the link given at the bottom **
 
 (Only first row of each output is shown to keep everything limited)
 
@@ -19,7 +19,8 @@ Recommendations:
 
 
 2) Provide a report with all the unique product counts for each segment and sort them in descending order of product counts.
--- The notebook category recorded the highest sales with 129 units, followed by accessories with 116 units, peripherals with 84 units, desktop with 32 units, storage with 27 units, and networking with 9 units.
+-- The notebook category recorded the highest sales with 129 units, followed by accessories with 116 units, peripherals with 84 units, desktop with 32 units, 
+storage with 27 units, and networking with 9 units.
 
 Recommendations:
 - Atliq Hardwares should focus on further innovation and differentiation within this segment to maintain and potentially expand its market share.
@@ -58,7 +59,6 @@ Recommendations:
 - Analyzing why Q4 is particularly successful could reveal insights into consumer behavior, market trends, or promotional activities during that time. 
 - Understanding which products drove the sales surge in Q4 can provide valuable insights. This information can guide inventory management, marketing campaigns, and product development strategies.
 - Assess the supply chain efficiency and capacity during Q4 to ensure that the increased demand was effectively met without compromising product quality or customer satisfaction
-
 
 
 Tools / Skills used in the Project:
