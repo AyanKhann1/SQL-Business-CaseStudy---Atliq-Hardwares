@@ -1,49 +1,64 @@
-1) Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
--- India, Indonesia, Japan ,Philiphines, South Korea, Australia, Newzealand, Bangladesh
+Insights and Recommendations:
 
-2) What is the percentage of unique product increase in 2021 vs. 2020?
+** For this project, I am only considering the 4 questions to answer to keep it easier for viewers to read everything and get the overall idea. **
+** For detailed output, click the link given at the bottom**
+
+(Only first row of each output is shown to keep everything limited)
+
+
+1) What is the percentage of unique product increase in 2021 vs. 2020?
 -- Unique Products 2020 = 245	
 -- Unique Products 2021 = 334	
 -- Percentage Change = 15.3713%
 
-3) Provide a report with all the unique product counts for each segment and sort them in descending order of product counts.
+Recommendations: 
+- With a broader range of products, Atliq Hardwares can now target different market segments more effectively. 
+- The management should analyze customer data to identify specific segments showing the most potential for growth. 
+- Tailored marketing strategies and product positioning can then be developed to address the needs of these segments, thereby maximizing sales opportunities.
+- With an increased product range, it's essential to optimize supply chain and operations processes to meet demand efficiently and minimize costs.
+
+
+2) Provide a report with all the unique product counts for each segment and sort them in descending order of product counts.
 -- The notebook category recorded the highest sales with 129 units, followed by accessories with 116 units, peripherals with 84 units, desktop with 32 units, storage with 27 units, and networking with 9 units.
 
-4)  Which segment had the most increase in unique products in 2021 vs 2020?
+Recommendations:
+- Atliq Hardwares should focus on further innovation and differentiation within this segment to maintain and potentially expand its market share.
+- Atliq Hardwares could capitalize on this by offering bundled deals or promotions that encourage customers to purchase both laptops and related accessories together.
+
+
+3)  Which segment had the most increase in unique products in 2021 vs 2020?
 -- Segment = Accessories
 -- Unique Products 2020 = 69
 -- Unique Products 2021 = 103
 -- Difference = 34
 
-5) Get the products that have the highest and lowest manufacturing costs.
--- HIGHEST
--- Product Code = A6120110206	
--- Product Name = AQ HOME Allin1 Gen 2	
--- Manufacturing Cost = 240.5364
+Recommendation:
+-- Identify bestselling products, and capitalize on consumer demand by offering more innovative and diverse accessory options.
 
--- LOWEST
-A2118150101	AQ Master wired x1 Ms	0.8920
--- Product Code = A2118150101	
--- Product Name = AQ Master wired x1 Ms	
--- Manufacturing Cost = 0.8920
 
-6) Generate a report which contains the top 5 customers who received an average high pre_invoice_discount_pct for the fiscal year 2021 and in the Indian market.
+4) Generate a report which contains the top 5 customers who received an average high pre_invoice_discount_pct for the fiscal year 2021 and in the Indian market.
 -- Customer Code = 90002009	
 -- Customer = Flipkart	
 -- pre_invoice_discount_pct = 0.30830000%
 
-7) In which quarter of 2020, got the maximum total_sold_quantity?
+Recommendations:
+- These top customers are evidently receiving significant discounts, possibly indicating that they are high-volume purchasers or have negotiated favorable terms. 
+Atliq Hardwares should maintain close relationships with these key customers to understand their needs better and potentially negotiate more sustainable pricing structures without sacrificing profitability.
+- Analyzing which products these top customers purchase can reveal insights into product preferences and market demands. Atliq can tailor its product offerings or promotions to align better with these preferences, potentially boosting sales and customer satisfaction.
+
+
+5) In which quarter of 2021, got the maximum total_sold_quantity?
 -- Q4 = 17,447,125
 -- Q3 = 11,024,794
 -- Q2 = 10,831,277
 -- Q1 = 10,861,386
 
-8) Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021?
--- Division = PC	
--- Product Code A6119110204	
--- Product = AQ HOME Allin1 Gen 2	
--- Total Sold Quantity = 2286	
--- Rank order = 3
+Recommendations:
+- The significant spike in sales during Q4 suggests that there might be seasonal factors influencing purchasing behavior. 
+- Analyzing why Q4 is particularly successful could reveal insights into consumer behavior, market trends, or promotional activities during that time. 
+- Understanding which products drove the sales surge in Q4 can provide valuable insights. This information can guide inventory management, marketing campaigns, and product development strategies.
+- Assess the supply chain efficiency and capacity during Q4 to ensure that the increased demand was effectively met without compromising product quality or customer satisfaction
+
 
 
 Tools / Skills used in the Project:
