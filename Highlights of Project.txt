@@ -1,6 +1,6 @@
 Insights and Recommendations:
 
-** For this project, I am only considering the 4 questions to answer to keep it easier for viewers to read everything and get the overall idea. **
+** For this project, I am only considering the 5 questions to answer to keep it easier for viewers to read everything and get the overall idea. **
 ** For detailed output, click the link given at the bottom**
 
 (Only first row of each output is shown to keep everything limited)
