@@ -1,1 +1,13 @@
-x
+1) Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
+-- India, Indonesia, Japan ,Philiphines, South Korea, Australia, Newzealand, Bangladesh
+
+2) What is the percentage of unique product increase in 2021 vs. 2020?
+-- unique_products 2020 = 245	
+-- unique_products 2021 = 334	
+-- percentage_change = 15.3713%
+
+3) Provide a report with all the unique product counts for each segment and sort them in descending order of product counts.
+-- The notebook category recorded the highest sales with 129 units, followed by accessories with 116 units, peripherals with 84 units, desktop with 32 units, storage with 27 units, and networking with 9 units.
+
+4)  Which segment had the most increase in unique products in 2021 vs 2020?
+-- 
