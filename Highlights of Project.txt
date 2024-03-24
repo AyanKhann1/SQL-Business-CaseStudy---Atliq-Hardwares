@@ -2,12 +2,58 @@
 -- India, Indonesia, Japan ,Philiphines, South Korea, Australia, Newzealand, Bangladesh
 
 2) What is the percentage of unique product increase in 2021 vs. 2020?
--- unique_products 2020 = 245	
--- unique_products 2021 = 334	
--- percentage_change = 15.3713%
+-- Unique Products 2020 = 245	
+-- Unique Products 2021 = 334	
+-- Percentage Change = 15.3713%
 
 3) Provide a report with all the unique product counts for each segment and sort them in descending order of product counts.
 -- The notebook category recorded the highest sales with 129 units, followed by accessories with 116 units, peripherals with 84 units, desktop with 32 units, storage with 27 units, and networking with 9 units.
 
 4)  Which segment had the most increase in unique products in 2021 vs 2020?
--- 
+-- Segment = Accessories
+-- Unique Products 2020 = 69
+-- Unique Products 2021 = 103
+-- Difference = 34
+
+5) Get the products that have the highest and lowest manufacturing costs.
+-- HIGHEST
+-- Product Code = A6120110206	
+-- Product Name = AQ HOME Allin1 Gen 2	
+-- Manufacturing Cost = 240.5364
+
+-- LOWEST
+A2118150101	AQ Master wired x1 Ms	0.8920
+-- Product Code = A2118150101	
+-- Product Name = AQ Master wired x1 Ms	
+-- Manufacturing Cost = 0.8920
+
+6) Generate a report which contains the top 5 customers who received an average high pre_invoice_discount_pct for the fiscal year 2021 and in the Indian market.
+-- Customer Code = 90002009	
+-- Customer = Flipkart	
+-- pre_invoice_discount_pct = 0.30830000%
+
+7) In which quarter of 2020, got the maximum total_sold_quantity?
+-- Q4 = 17,447,125
+-- Q3 = 11,024,794
+-- Q2 = 10,831,277
+-- Q1 = 10,861,386
+
+8) Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021?
+-- Division = PC	
+-- Product Code A6119110204	
+-- Product = AQ HOME Allin1 Gen 2	
+-- Total Sold Quantity = 2286	
+-- Rank order = 3
+
+
+Tools / Skills used in the Project:
+-- CTEs (Common Table Expressions)
+-- Conditional Statements
+-- Aggregate Functions
+-- Window Functions
+-- Data Manipulation Functions
+-- Joins
+
+
+I invite you to visit my LinkedIn page to view the full project presentation covering everything from Introduction, Plans, Code snippets and Outside the box questions.
+-- Link: https://www.linkedin.com/in/khan-ayan/
