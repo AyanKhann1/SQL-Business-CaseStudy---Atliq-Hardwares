@@ -58,7 +58,7 @@ Recommendations:
 - The significant spike in sales during Q4 suggests that there might be seasonal factors influencing purchasing behavior. 
 - Analyzing why Q4 is particularly successful could reveal insights into consumer behavior, market trends, or promotional activities during that time. 
 - Understanding which products drove the sales surge in Q4 can provide valuable insights. This information can guide inventory management, marketing campaigns, and product development strategies.
-- Assess the supply chain efficiency and capacity during Q4 to ensure that the increased demand was effectively met without compromising product quality or customer satisfaction
+- Assess the supply chain efficiency and capacity during Q4 to ensure that the increased demand was effectively met without compromising product quality or customer satisfaction.
 
 
 Tools / Skills used in the Project:
